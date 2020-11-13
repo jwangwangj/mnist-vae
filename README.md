@@ -1,7 +1,7 @@
 # Assignment 3 - Variational Autoencoders
 #### Due: 11:59pm Thursday, April 16
 
-This is the repository for assignment 2. It contains the following files:
+This is the repository for assignment 3. It contains the following files:
 
 * `.gitignore` - tells git to ignore certain kinds of files. This prevents you from submitting the auxiliary files created when producing LaTeX documents.
 * `README.md` - the text you are currently reading.
