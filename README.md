@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3 - Variational Autoencoders
 #### Due: 11:59pm Thursday, April 16
 
 This is the repository for assignment 2. It contains the following files:
